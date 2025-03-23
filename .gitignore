@@ -1,3 +1,5 @@
 venv
 ./data
 data
+data.csv
+main_bd.ipynb
